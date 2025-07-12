@@ -27,8 +27,7 @@ I’m about to graduate from the University of Melbourne 🎓 and passionate abo
 
 ### 🎓 학력 Education
 
-**University of Melbourne (멜버른 대학교)**  
-컴퓨터 과학 전공  
+**University of Melbourne (멜버른 대학교)**   
 
 Bachelor of Science: Computing and Software Systems 
 
