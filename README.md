@@ -29,8 +29,11 @@ I’m about to graduate from the University of Melbourne 🎓 and passionate abo
 
 **University of Melbourne (멜버른 대학교)**  
 컴퓨터 과학 전공  
+
 Bachelor of Science: Computing and Software Systems 
+
 📍 호주 멜버른  Melbourne VIC, Australia
+
 📅 졸업 예정: 2025년 8월 Graduation Expected: [Aug 2025]
 
 ### 🧠 프로젝트 Projects
@@ -78,6 +81,7 @@ Bachelor of Science: Computing and Software Systems
 
 <details>
 <summary>Show English Description (Click to expand)</summary>
+
 #### 1. IT-Project
 A team-based capstone project focused on building a web-based system for a real client.  
 - Designed and implemented both the **frontend** (React) and **backend** (Spring Boot, MySQL) architecture  
