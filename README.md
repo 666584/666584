@@ -33,8 +33,6 @@ Bachelor of Science: Computing and Software Systems
 
 📍 호주 멜버른  Melbourne VIC, Australia
 
-📅 졸업 예정: 2025년 8월 Graduation Expected: [Aug 2025]
-
 ### 🧠 프로젝트 Projects
 
 #### 1. IT-Project  
