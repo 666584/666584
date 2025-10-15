@@ -3,7 +3,7 @@
 AI 개발자를 꿈꾸는 성장중인 개발자 입니다.
 
 Hello! 👋
-I’m about to graduate from the University of Melbourne 🎓 and passionate about building a career as an AI developer 🤖. I love exploring new ideas in artificial intelligence and applying my skills to create impactful and innovative solutions 🌟. Excited to learn, grow, and contribute in this fast-evolving field 🚀.
+I’m passionate about building a career as an AI developer 🤖. I love exploring new ideas in artificial intelligence and applying my skills to create impactful and innovative solutions 🌟. Excited to learn, grow, and contribute in this fast-evolving field 🚀.
 
 ### ⚒기술 스택 Technical Skills
 
