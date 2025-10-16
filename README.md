@@ -24,15 +24,6 @@ I’m passionate about building a career as an AI developer 🤖. I love explori
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ---
-
-### 🎓 학력 Education
-
-**University of Melbourne (멜버른 대학교)**   
-
-Bachelor of Science: Computing and Software Systems 
-
-📍 호주 멜버른  Melbourne VIC, Australia
-
 ### 🧠 프로젝트 Projects
 
 #### 1. IT-Project  
